@@ -2,3 +2,4 @@ test
 test
 test
 branch hot-fix add
+master branch new line
