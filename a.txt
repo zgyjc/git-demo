@@ -6,3 +6,4 @@ master branch new line
 pull test
 username zgyjc test
 fork test
+ssh test
